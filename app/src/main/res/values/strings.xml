@@ -1,0 +1,53 @@
+<!--..............................................................................................................................
+  . Copyright (c)
+  .
+  . The strings.xml	 Class was Coded by : Alexandre BOLOT
+  .
+  . Last Modified : 12/07/17 19:42
+  .
+  . Contact : bolotalex06@gmail.com
+  .............................................................................................................................-->
+
+<resources>
+    <string name="app_name">Seacom 2017</string>
+    <string name="event_code">Código do evento</string>
+    <string name="validate">Validar</string>
+
+    <string-array name="eventCodes">
+        <item>#Code1</item>
+        <item>#Code2</item>
+        <item>#Code3</item>
+    </string-array>
+
+    <string-array name="eventHeaders">
+        <item>Header1</item>
+        <item>Header2</item>
+        <item>Header3</item>
+    </string-array>
+
+    <string-array name="eventContents">
+        <item>Etiam turpis neque, malesuada a odio eu, sagittis aliquet augue. Interdum et malesuada fames ac ante ipsum primis in faucibus. Praesent aliquam
+            nunc at suscipit hendrerit. Integer congue nec tellus id porta. Mauris congue magna at aliquet auctor. Quisque sagittis, nunc sit amet cursus
+            sodales, ligula magna porta risus, sit amet interdum nibh metus vitae metus. Sed mollis lacus nec volutpat porta. In efficitur leo at sapien
+            scelerisque, eu semper est consectetur.\n
+            Curabitur aliquam efficitur arcu in volutpat. Mauris maximus nisl turpis, at rutrum magna feugiat non. Nullam arcu dolor, mollis sed suscipit
+            dictum, efficitur et tortor. Phasellus euismod mi.\n\n
+            Etiam turpis neque, malesuada a odio eu, sagittis aliquet augue. Interdum et malesuada fames ac ante ipsum primis in faucibus. Praesent aliquam
+            nunc at suscipit hendrerit. Integer congue nec tellus id porta. Mauris congue magna at aliquet auctor. Quisque sagittis, nunc sit amet cursus
+            sodales, ligula magna porta risus, sit amet interdum nibh metus vitae metus. Sed mollis lacus nec volutpat porta. In efficitur leo at sapien
+            scelerisque, eu semper est consectetur.\n
+            Curabitur aliquam efficitur arcu in volutpat. Mauris maximus nisl turpis, at rutrum magna feugiat non. Nullam arcu dolor, mollis sed suscipit
+            dictum, efficitur et tortor. Phasellus euismod mi.</item>
+        <item>Aenean facilisis tempus imperdiet. In porttitor facilisis elementum. Cras vehicula nec nibh eu molestie. Etiam tincidunt erat nibh, vitae
+            hendrerit risus aliquet a. Vestibulum placerat leo vel vehicula ultrices. Curabitur tempor, orci sed efficitur placerat, risus sem scelerisque
+            ipsum, non rutrum lacus leo et arcu. Donec laoreet convallis velit, ac scelerisque ex feugiat in. Phasellus vehicula placerat augue. Suspendisse
+            dapibus ante et risus faucibus, nec dapibus quam pulvinar. Nam auctor nunc tellus, non facilisis nibh pharetra quis. Maecenas eget est sed lacus
+            mollis sollicitudin vel in augue. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</item>
+        <item>Pellentesque ullamcorper, ex laoreet viverra ultricies, elit metus rhoncus est, nec fringilla lectus nisl sed mauris. Etiam sit amet maximus
+            odio. Pellentesque quis ultricies nunc, sed dictum odio. Integer porttitor fringilla elit eu tincidunt. Morbi tempus mauris id est sagittis
+            fermentum. Proin accumsan a nisi ut efficitur. Proin in dolor lobortis, viverra nisi a, commodo nisl. Duis ac augue eleifend, blandit nulla ac,
+            volutpat tortor. In rutrum mauris leo, nec commodo mauris luctus at. Maecenas non diam leo.\n
+            Cras posuere nulla sed tellus blandit sollicitudin sed et purus. Integer ut massa non felis lacinia maximus quis a nisi. Sed fringilla.</item>
+    </string-array>
+
+</resources>

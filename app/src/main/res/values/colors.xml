@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--..............................................................................................................................
+  . Copyright (c)
+  .
+  . The colors.xml	 Class was Coded by : Alexandre BOLOT
+  .
+  . Last Modified : 12/07/17 19:18
+  .
+  . Contact : bolotalex06@gmail.com
+  .............................................................................................................................-->
+
+<resources>
+    <color name="colorPrimary">#41BBCC</color>
+    <color name="colorPrimaryDark">#41BBCC</color>
+    <color name="colorAccent">#41BBCC</color>
+    <color name="mainColor">#41BBCC</color>
+    <color name="white">#FFFFFF</color>
+
+    <!--Green = #008000-->
+
+</resources>
