@@ -18,7 +18,7 @@ import java.util.List;
  .
  . The MainActivity	 Class was Coded by : Alexandre BOLOT
  .
- . Last Modified : 14/07/17 03:30
+ . Last Modified : 16/07/17 16:42
  .
  . Contact : bolotalex06@gmail.com
  ...............................................................................................................................*/
@@ -37,10 +37,10 @@ public class MainActivity extends AppCompatActivity
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main_view);
         
-        listView = (ExpandableListView) findViewById(R.id.expandListView);
         days = DataProvider.getExtendedListViewData();
         events = new ArrayList<>(days.keySet());
         adapter = new EventsAdapter(this, days, events);
+        listView = (ExpandableListView) findViewById(R.id.expandListView);
         listView.setAdapter(adapter);
         
         res = getApplicationContext().getResources();
@@ -70,6 +70,8 @@ public class MainActivity extends AppCompatActivity
                         content = eventContent[i];
                     }
                 }
+    
+                if(header.isEmpty() || content.isEmpty()) return;
                 
                 Intent intent = new Intent(MainActivity.this, SpecificActivity.class);
                 intent.putExtra("Header", header);
