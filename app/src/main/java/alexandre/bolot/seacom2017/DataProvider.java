@@ -10,7 +10,7 @@ import java.util.List;
  .
  . The DataProvider	 Class was Coded by : Alexandre BOLOT
  .
- . Last Modified : 29/07/17 19:40
+ . Last Modified : 29/07/17 23:50
  .
  . Contact : bolotalex06@gmail.com
  ...............................................................................................................................*/
@@ -45,23 +45,23 @@ public class DataProvider
                 "08h00 : 12h00 — Minicurso —> #ciberjornalismo\n“Ciberjornalismo: escrever para internet”\nLocal: Bloco Walter Felix II, Laboratório de Informática");
         events0308.add("—— Tarde ——");
         events0308.add("14h00 : 17h00 — Minicurso —> #empresa\n“Produção de podcasts”\nLocal: Centro de Convenções, Sala Adriana Santelli");
-        events0308.add("14h00 : 18h00 — Minicurso —> #podcasts\n“Criando uma epresa de sucesso”\nLocal: Bloco Walter Felix II, Laboratório de Informática");
+        events0308.add("14h00 : 18h00 — Minicurso —> #podcasts\n“Criando uma empresa de sucesso”\nLocal: Bloco Walter Felix II, Laboratório de Informática");
         events0308.add(
                 "14h00 : 18h00 — Minicurso —> #noticiasfalsas\n“Fact-checking: como checar o discurso público e combater notícias falsas”\nLocal: Bloco Walter Felix, Sala Ambiente de Jornalismo");
         events0308.add("—— Noite ——");
-        events0308.add("19h00 — “Aoresebtação acadêmicos e científicos”\nLocal: Bloco Walter Felix II");
+        events0308.add("19h00 — “Apresentação acadêmicos e científicos”\nLocal: Bloco Walter Felix II");
         
         List<String> events0408 = new ArrayList<>();
-        events0308.add("—— Manhã ——");
+        events0408.add("—— Manhã ——");
         events0408.add("08h00 : 11h00 — Minicurso —> #roteiro\n“Introdução a roteiro de cinema”\nLocal: Centro de Convenções, Sala Adriana Santelli");
         events0408.add(
                 "08h00 : 12h00 — Minicurso —> #realidadeacreana\n“Telejornalismo e a realidade acreana”\nLocal: Bloco Walter Felix II, Sala de Telejornalismo");
-        events0308.add("—— Tarde ——");
+        events0408.add("—— Tarde ——");
         events0408.add(
                 "14h00 : 16h00 — Minicurso —> #google\n“No topo das buscas: como aparecer na primeira página do Google”\nLocal: Bloco Walter Felix II, Sala de Informática");
         events0408.add(
                 "14h00 : 16h00 — Minicurso —> #fotojornalismo\n“Fotojornalista: uma profissão em extinção”\nLocal: Centro de Convenções, Sala Adriana Santelli");
-        events0308.add("—— Noite ——");
+        events0408.add("—— Noite ——");
         events0408.add(
                 "18h00 — Mesa redonda: “O empreendedorismo e a comunicação” com a presença de Alan Rick, Rodrigo Pires, Veriana Ribeiro e Natan Peres \nLocal: Centro de Convenções, Sala Pedro Martinello\nMediadora: Tatyana Lima");
         events0408.add(
