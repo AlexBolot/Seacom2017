@@ -3,7 +3,7 @@
   .
   . The strings.xml	 Class was Coded by : Alexandre BOLOT
   .
-  . Last Modified : 12/07/17 19:42
+  . Last Modified : 29/07/17 19:20
   .
   . Contact : bolotalex06@gmail.com
   .............................................................................................................................-->
@@ -14,40 +14,116 @@
     <string name="validate">Validar</string>
 
     <string-array name="eventCodes">
-        <item>#Code1</item>
-        <item>#Code2</item>
-        <item>#Code3</item>
+        <item>#mesa1</item>
+
+        <item>#mesa2</item>
+        <item>#mesa3</item>
+
+        <item>#telejornalismo</item>
+        <item>#videomaker</item>
+        <item>#ciberjornalismo</item>
+        <item>#empresa</item>
+        <item>#podcasts</item>
+        <item>#noticiasfalsas</item>
+
+        <item>#roteiro</item>
+        <item>#realidadeacreana</item>
+        <item>#google</item>
+        <item>#fotojornalismo</item>
     </string-array>
 
     <string-array name="eventHeaders">
-        <item>Header1</item>
-        <item>Header2</item>
-        <item>Header3</item>
+        <item>Semiótica</item>
+
+        <item>Discussão sobre “Comunicação, Imaginário e Amazônia”</item>
+        <item>Discussão sobre “Comunicação, Literatura e Gênero”</item>
+
+        <item>Minicurso “#Telejornalismoconvergente”</item>
+        <item>Minicurso “Quero ser um videomaker, e agora?”</item>
+        <item>Minicurso “Ciberjornalismo: escrever para internet”</item>
+
+        <item>Minicurso “Criando uma empresa de sucesso”</item>
+        <item>Minicurso “Produção de podcasts”</item>
+        <item>“Fact-checking: como checar o discurso público e combater notícias falsas”</item>
+
+        <item>Minicurso “Introdução a roteiro de cinema”</item>
+        <item>Minicurso “Telejornalismo e a realidade acreana”</item>
+        <item>Minicurso “No topo das buscas: como aparecer na primeira página do Google”</item>
+        <item>Minicurso “Fotojornalista: uma profissão em extinção”</item>
     </string-array>
 
     <string-array name="eventContents">
-        <item>Etiam turpis neque, malesuada a odio eu, sagittis aliquet augue. Interdum et malesuada fames ac ante ipsum primis in faucibus. Praesent aliquam
-            nunc at suscipit hendrerit. Integer congue nec tellus id porta. Mauris congue magna at aliquet auctor. Quisque sagittis, nunc sit amet cursus
-            sodales, ligula magna porta risus, sit amet interdum nibh metus vitae metus. Sed mollis lacus nec volutpat porta. In efficitur leo at sapien
-            scelerisque, eu semper est consectetur.\n
-            Curabitur aliquam efficitur arcu in volutpat. Mauris maximus nisl turpis, at rutrum magna feugiat non. Nullam arcu dolor, mollis sed suscipit
-            dictum, efficitur et tortor. Phasellus euismod mi.\n\n
-            Etiam turpis neque, malesuada a odio eu, sagittis aliquet augue. Interdum et malesuada fames ac ante ipsum primis in faucibus. Praesent aliquam
-            nunc at suscipit hendrerit. Integer congue nec tellus id porta. Mauris congue magna at aliquet auctor. Quisque sagittis, nunc sit amet cursus
-            sodales, ligula magna porta risus, sit amet interdum nibh metus vitae metus. Sed mollis lacus nec volutpat porta. In efficitur leo at sapien
-            scelerisque, eu semper est consectetur.\n
-            Curabitur aliquam efficitur arcu in volutpat. Mauris maximus nisl turpis, at rutrum magna feugiat non. Nullam arcu dolor, mollis sed suscipit
-            dictum, efficitur et tortor. Phasellus euismod mi.</item>
-        <item>Aenean facilisis tempus imperdiet. In porttitor facilisis elementum. Cras vehicula nec nibh eu molestie. Etiam tincidunt erat nibh, vitae
-            hendrerit risus aliquet a. Vestibulum placerat leo vel vehicula ultrices. Curabitur tempor, orci sed efficitur placerat, risus sem scelerisque
-            ipsum, non rutrum lacus leo et arcu. Donec laoreet convallis velit, ac scelerisque ex feugiat in. Phasellus vehicula placerat augue. Suspendisse
-            dapibus ante et risus faucibus, nec dapibus quam pulvinar. Nam auctor nunc tellus, non facilisis nibh pharetra quis. Maecenas eget est sed lacus
-            mollis sollicitudin vel in augue. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</item>
-        <item>Pellentesque ullamcorper, ex laoreet viverra ultricies, elit metus rhoncus est, nec fringilla lectus nisl sed mauris. Etiam sit amet maximus
-            odio. Pellentesque quis ultricies nunc, sed dictum odio. Integer porttitor fringilla elit eu tincidunt. Morbi tempus mauris id est sagittis
-            fermentum. Proin accumsan a nisi ut efficitur. Proin in dolor lobortis, viverra nisi a, commodo nisl. Duis ac augue eleifend, blandit nulla ac,
-            volutpat tortor. In rutrum mauris leo, nec commodo mauris luctus at. Maecenas non diam leo.\n
-            Cras posuere nulla sed tellus blandit sollicitudin sed et purus. Integer ut massa non felis lacinia maximus quis a nisi. Sed fringilla.</item>
+        <item>
+            • “Literatura e tradução interssemiótica”, Luciana Maira de Salles Pereira (Mestre em Letras – Linguagem e Identidade /IFAC).\n\n
+            • “Funções sígnicas (signos) e quadrinhos”, Carlos Frederico Silva de Oliveira (Mestrando em Letras/UFAC).
+        </item>
+        <item>
+            • “Representação e imaginário na Amazônia: um estudo sobre o jornalismo do G1 Acre”, Karolini de Oliveira (FAPAC/UFAC).\n
+            • “O caminho das representações no documentário O Acre Existe”, Glauco Capper da Rocha (Mestrando em Letras/UFAC).\n
+            • “Jornalismo e meio ambiente em pauta: a criação de um livro”, Priscila Cristina Miranda (Graduada em Comunicação Social/Jornalismo).
+        </item>
+        <item>
+            • “Jornalismo nas margens: vidas anônimas e micro-história emO olho da rua, de Eliane Brum”, Francisco Aquinei Timóteo Queirós (Doutorando em
+            Comunicação UFAC/Unisinos).\n
+            • “Sujeitos dissidentes das heteronormas: representações sociais nos jornais O Rio Branco e A Gazeta do Acre (1980-1989)”, Samyr Farias Leite
+            (Mestrando em Letras/UFAC).
+        </item>
+        <item>
+            Ministrante: Thiago Rogeh\nCarga horária: 3h.\n\n
+            #Convergenciadigital #telejornalismo #interatividade #linguagem. A comunicação digital e a convergência midiática impulsionaram o jornalismo para
+            novos caminhos. Caminhos que são descobertos (neste exato momento) por jornalistas e pensadores da comunicação. Como o telejornalismo tem se moldado
+            às novas tendências? Como a linguagem padrão absorveu a realidade web? O telejornalismo vai acabar? Essas perguntas vão ser discutidas no minicurso
+            “Telejornalismo convergente”. O minicurso vai analisar os impactos na linguagem do telejornalismo em sua nova versão. Como a interatividade com o
+            telespectador mudou e se configura em uma das mais importantes  facetas da comunicação digital. E a evolução no perfil de jornalista e os novos
+            mercados que podem (e devem) ser explorados.
+        </item>
+        <item>
+            Ministrante: Ciro Facundo\nCarga horária: 4h.\n\n
+            Onde vivem? De que se alimentam? Como se reproduzem? Cinema, televisão e VoD: Diferenciação dos setores do audiovisual e suas peculiaridades.
+            Cumulação de funções: Fluxo de trabalho de um videomaker. Consigo fazer tudo sozinho ou tenho que ter uma equipe?
+        </item>
+        <item>
+            Ministrante: Gilberto Lobo\nCarga Horária 4h.\n\n
+            O minicurso trata de fundamentos da escrita jornalística para internet e da prática no ciberjornalismo.
+        </item>
+        <item>
+            Ministrante: Fábio Ortiz – Carga Horária 4h.\n\n
+            Entendendo o negócio e aprendendo a empreender; Segmentos de Clientes; Tipos de segmentos de clientes: Plataformas/mercados multilaterais, mercados
+            de massa, mercados de nicho, mercados diversificados e mercados segmentados; Proposta de Valor; Canais; Relacionamento com Clientes; Fontes de
+            Receita; Recursos Principais; Atividades chave; Parcerias principais; Estrutura de Custo.
+        </item>
+        <item>
+            Ministrante: Tatyana Lima – Carga Horária: 3 h.\n\n
+            O minicurso pretende contribuir para a compreensão da dinâmica de produção de conteúdos informativos em áudio para a internet (usado pelos meios
+            jornalísticos,  assessorias de comunicação de instituições públicas e privadas). Os conteúdos serão técnicas e exemplos de como montar um podcast
+            com o propósito de informar ou divulgar um serviço, produto ou pessoa/empresa. Também haverá um momento de prática, onde os alunos poderão iniciar
+            a produção de seus próprios podcasts.
+        </item>
+        <item>
+            Ministrante: Taís Seibt – Carga Horária: 4h.\n\n
+            A origem do fact-checking. Experiências de checagem no Brasil. Métodos para checar o discurso público. Jornalismo guiado por dados e lei de acesso à
+            informação. Fact-checking na prática.
+        </item>
+        <item>
+            Ministrantes: Priscila Araújo e Victor Silveira – Carga Horária: 4 h.\n\n
+            O curso tem como característica principal entender de que forma o roteiro é estruturado e quais os elementos que podem tornar essa narrativa tão
+            atraente. Entender como é a estrutura de um roteiro e de forma prática utilizar uma ideia para desenvolver o projeto de um roteiro.
+        </item>
+        <item>
+            Ministrante: Jardel Costa Angelim – Carga Horária: 4 h.\n\n
+            Como é elaborado um telejornal, desde a produção da pauta até o conteúdo final, quando vai ao ar. Quais as principais dificuldades de se trabalhar
+            na região e a realidade encontrada nas redações acreanas.
+        </item>
+        <item>
+            Ministrante: Thiago Cabral – Carga Horária: 2 h.\n\n
+            Definição de tráfego orgânico; Pesquisa de palavras-chave para planejar conteúdo; Como funciona o rankeamento do Google; Aplicação de estratégias de
+            SEO. Apresentar ferramentas que possam auxiliar nas escolhas de conteúdo geradores de cliques. Proporcionar o entendimento dos mecanismos usados
+            pelo Google na ferramenta de busca. Orientar os estudantes a otimizar os conteúdos postados em sites e blogs através do uso de palavras-chaves.
+        </item>
+        <item>
+            Ministrante: Marcos Vicentti – Carga Horária: 2 h.\n\n
+            A História do Fotojornalismo. Ampliar a visão crítica em relação a fotojornalismo como meio de expressão informativa.
+        </item>
     </string-array>
 
 </resources>

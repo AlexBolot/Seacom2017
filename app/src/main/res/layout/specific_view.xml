@@ -4,7 +4,7 @@
   .
   . The specific_view.xml	 Class was Coded by : Alexandre BOLOT
   .
-  . Last Modified : 14/07/17 03:30
+  . Last Modified : 29/07/17 18:11
   .
   . Contact : bolotalex06@gmail.com
   .............................................................................................................................-->
@@ -22,7 +22,7 @@
             app:layout_constraintRight_toRightOf="parent"
             android:id="@+id/txtHeader"
             android:layout_width="0dp"
-            android:layout_height="40dp"
+            android:layout_height="60dp"
             android:layout_marginTop="0dp"
             android:layout_marginLeft="0dp"
             android:textStyle="bold"
@@ -49,12 +49,11 @@
             android:layout_marginRight="8dp"
             android:layout_marginTop="8dp"
             android:layout_marginBottom="8dp"
-            android:gravity="top|start|fill"
             android:visibility="visible"
             android:textSize="18sp"
 
             android:maxLines="21"
             android:scrollbars="vertical"
-            />
+            android:gravity="top|start"/>
 
 </android.support.constraint.ConstraintLayout>
