@@ -10,7 +10,7 @@ import java.util.List;
  .
  . The DataProvider	 Class was Coded by : Alexandre BOLOT
  .
- . Last Modified : 29/07/17 23:50
+ . Last Modified : 30/07/17 01:44
  .
  . Contact : bolotalex06@gmail.com
  ...............................................................................................................................*/
@@ -44,8 +44,8 @@ public class DataProvider
         events0308.add(
                 "08h00 : 12h00 — Minicurso —> #ciberjornalismo\n“Ciberjornalismo: escrever para internet”\nLocal: Bloco Walter Felix II, Laboratório de Informática");
         events0308.add("—— Tarde ——");
-        events0308.add("14h00 : 17h00 — Minicurso —> #empresa\n“Produção de podcasts”\nLocal: Centro de Convenções, Sala Adriana Santelli");
-        events0308.add("14h00 : 18h00 — Minicurso —> #podcasts\n“Criando uma empresa de sucesso”\nLocal: Bloco Walter Felix II, Laboratório de Informática");
+        events0308.add("14h00 : 17h00 — Minicurso —> #podcasts\n“Produção de podcasts”\nLocal: Centro de Convenções, Sala Adriana Santelli");
+        events0308.add("14h00 : 18h00 — Minicurso —> #empresa\n“Criando uma empresa de sucesso”\nLocal: Bloco Walter Felix II, Laboratório de Informática");
         events0308.add(
                 "14h00 : 18h00 — Minicurso —> #noticiasfalsas\n“Fact-checking: como checar o discurso público e combater notícias falsas”\nLocal: Bloco Walter Felix, Sala Ambiente de Jornalismo");
         events0308.add("—— Noite ——");
