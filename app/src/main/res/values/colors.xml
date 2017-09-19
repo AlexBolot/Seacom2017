@@ -4,7 +4,7 @@
   .
   . The colors.xml	 Class was Coded by : Alexandre BOLOT
   .
-  . Last Modified : 12/07/17 19:18
+  . Last Modified : 19/09/17 08:16
   .
   . Contact : bolotalex06@gmail.com
   .............................................................................................................................-->
@@ -15,7 +15,5 @@
     <color name="colorAccent">#41BBCC</color>
     <color name="mainColor">#41BBCC</color>
     <color name="white">#FFFFFF</color>
-
-    <!--Green = #008000-->
 
 </resources>
